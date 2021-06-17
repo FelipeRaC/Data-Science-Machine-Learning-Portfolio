@@ -1,2 +1,2 @@
-# Data-Science-Machine-Learning-Portfolio
+# Data Science & Machine Learning Portfolio
 Compilation of personal projects related to Data Science and Machine Learning
